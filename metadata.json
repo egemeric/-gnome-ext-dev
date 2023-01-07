@@ -1,0 +1,8 @@
+{
+    "uuid": "ege@egemeric.gen.tr",
+    "name": "Mqtt Sub",
+    "description": "Mqtt Subscriber",
+    "version": 1,
+    "shell-version": [ "42" ],
+    "url": "https://gitlab.gnome.org/World/ShellExtensions/gnome-shell-extension-example"
+}
